@@ -1,0 +1,39 @@
+.navbar {
+    width: 1600px;
+    background-color: rgb(99, 86, 86);
+    height: 55px;
+    
+}   
+.jumbotrone{
+    width: 1600px;
+    background-color: lightgray;
+    height: 800px;
+    
+}
+.jumbotroneButton1 {
+    width: 100px;
+    background-color: lightskyblue;
+    height: 40px;
+    
+    top: 600px;
+    left: 250px;
+}
+.jumbotroneButton2 {
+    width: 100px;
+    background-color: lightskyblue;
+    height: 40px;
+    top: 600px;
+    left: 300px;
+}
+.informationsPage {
+    background-color: lightgray;
+    width: 1600px;
+    height: 1000px;
+}
+.informations {
+    background-color: lemonchiffon;
+    width: 1500px;
+    height: 900px;
+    left: 50px;
+    margin: 50px;
+}
