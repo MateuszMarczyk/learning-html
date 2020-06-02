@@ -38,3 +38,23 @@
     height: 900px;
     left: 50px;
     }
+.info0 {
+    background-color: lightgray;
+    width: 1600px;
+    height: 600px;
+}
+
+.info1 {
+    float: left;
+    background-color: lemonchiffon;
+    width: 500px;
+    height: 95%;
+    margin-left: 50px;    
+}
+.info {  
+    float: left;
+    background-color: lemonchiffon;
+    width: 500px;
+    height: 95%;
+    margin-left: 1px;
+  }
